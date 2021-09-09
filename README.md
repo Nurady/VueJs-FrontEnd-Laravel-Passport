@@ -1,4 +1,5 @@
 # vue-passport
+Login, Register, Logout
 
 ## Project setup
 ```
